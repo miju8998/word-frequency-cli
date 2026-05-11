@@ -1,0 +1,14 @@
+C:\CSharpWork\WordFrequencyCLI\bin\Debug\net8.0\WordFrequencyCLI.exe
+C:\CSharpWork\WordFrequencyCLI\bin\Debug\net8.0\WordFrequencyCLI.deps.json
+C:\CSharpWork\WordFrequencyCLI\bin\Debug\net8.0\WordFrequencyCLI.runtimeconfig.json
+C:\CSharpWork\WordFrequencyCLI\bin\Debug\net8.0\WordFrequencyCLI.dll
+C:\CSharpWork\WordFrequencyCLI\bin\Debug\net8.0\WordFrequencyCLI.pdb
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.AssemblyInfoInputs.cache
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.AssemblyInfo.cs
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.csproj.CoreCompileInputs.cache
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.dll
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\refint\WordFrequencyCLI.dll
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.pdb
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\WordFrequencyCLI.genruntimeconfig.cache
+C:\CSharpWork\WordFrequencyCLI\obj\Debug\net8.0\ref\WordFrequencyCLI.dll
