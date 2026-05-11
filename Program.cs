@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Version 2 - ending removal requirement added
+using System;
 using System.Collections.Generic;
 
 class Program
